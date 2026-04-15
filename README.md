@@ -1,11 +1,9 @@
 ## 基于内容的音乐推荐系统设计与开发
 
-> 本作品是我大学本科的毕业设计，是我初步学习神经网络的一个完整作品。在学习以及完成作品中也参考了很多资料以及其他各类项目。本项目仅供大家学习，欢迎大家留言与我交流。
+> 本作品是我大学专科的毕业设计，是我初步学习神经网络的一个完整作品。在学习以及完成作品中也参考了很多资料以及其他各类项目。本项目仅供大家学习，欢迎大家留言与我交流。
 >
 > This work is my undergraduate graduation project, and it is a complete work of my preliminary study of neural network. In the study and the completion of the work, I also refer to a lot of materials and other various projects. This project is only for everyone to learn, welcome to leave a message to communicate with me.
 >
-> Bilibili 个人主页：https://space.bilibili.com/383843542
-
 
 
 ### 设计结构
